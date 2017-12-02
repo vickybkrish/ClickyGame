@@ -1,0 +1,17 @@
+.wrapper {
+  height: auto;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 150px;
+  padding-top: 250px;
+  justify-content: space-around;
+  align-content: flex-start;
+  font-family:'Mountains of Christmas', cursive;
+  background: cyan;
+
+}
+
+*{
+	box-sizing: border-box;
+}
+
